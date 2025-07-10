@@ -1,0 +1,243 @@
+
+H1{
+    margin-top: 250PX;
+    margin-left: 180PX;
+    font-size: 70PX;
+}
+h3{            
+    font-size: 30px;
+    color: red;
+}
+table{
+    border-collapse: collapse;
+    border: 30px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin-left: 500px;
+    background-color: aliceblue;
+    margin-top: 100px;
+}
+caption{
+    font-size: 20px;
+    font-weight: 200px;
+}
+.INTRO{
+    color: RED;
+    text-align: center;
+   margin: 0 0 0 0;
+}
+.dtl{
+margin-left: 20px;
+}
+.history{
+color: black;
+text-align: center;
+margin: 0 0 0 0;
+font-size: 100px;
+}
+.para{
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.logo{
+display:inline-block;
+margin-left: 800px;
+margin-top: -500px;
+margin-bottom: 500px;
+border: 25px solid black;
+border-radius: 15px;
+
+}
+.int{
+display: flex;
+}
+.hori{
+margin-top: -400px;
+height: 15px;
+background-color: black;
+}
+.abc{
+text-align: center;
+color: black;
+margin: 0 0 0 0;
+}
+.graph{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+}
+.stupa{
+display: inline-block;
+margin-left: 800px;
+margin-top: -500px;
+margin-bottom: 700px;
+border: 25px solid black;
+border-radius: 15px;
+}
+
+.heading{
+font-size: 40px;
+color: royalblue;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.temple{
+font-size: 40px;
+color: royalblue;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.zent{
+margin-top: -600px;
+height: 15px;
+background-color: black;
+}
+.bharat{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+}
+.photo{
+display: inline-block;
+margin-left: 800px;
+margin-top: -300px;
+margin-bottom: 500px;
+border: 25px solid black;
+border-radius: 15px;
+}
+.line{
+margin-top: -450px;
+height: 15px;
+background-color: black;
+}
+.br{
+height: 15px;
+background-color: black;
+margin-top: 310px;
+width: 1500px;
+}
+.nr{
+height: 15px;
+background-color: black;
+}
+.ar{
+height: 15px;
+background-color: black;
+}
+.history{
+color: red;
+}
+.abc{
+color: red;
+}
+.cdf{
+text-align: center;
+color: red;
+margin-top: -10px;
+}
+.kgf{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+}
+.klc{
+display:inline-block;
+margin-left: 800px;
+margin-top: -900px;
+margin-bottom: 400px;
+border: 25px solid black;
+border-radius: 15px;
+}
+.the{
+margin-top: -300px;
+height: 15px;
+background-color: black;
+} 
+.mno{
+color: red;
+text-align: center;
+margin-top: auto;
+}
+.lcd{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 30px;
+color: blueviolet;
+}
+.cd{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 30px;
+}
+.ad{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 30px;
+}
+.bd{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 30px;
+}
+.kd{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 40px;
+color:blue;
+}
+.ld{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 50px;
+color:rgb(12, 72, 184);
+}
+.op{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 40px;
+color: brown;
+}
+.po{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+}
+.lj{
+color: brown;
+}
+.qwe{
+margin-left: 120px;
+border: 15px solid;
+}
+.lo{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+}
+.uni{
+margin-left: 120px;
+border: 15px solid;
+}
+.pl{
+margin-left: 120px;
+border: 15px solid;
+}
+.uk{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+}
+.lp{
+margin-top: 50px;
+height: 15px;
+background-color: black;
+}
+.te{
+margin-top: -500px;
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 100px;
+}
+.ly{
+color: red;
+}
+.kpl{
+border: 15px solid;
+}
+.su{
+border: 15px solid;
+}
+.pd{
+border: 15px solid;
+}
+.u li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
